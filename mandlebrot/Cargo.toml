@@ -1,0 +1,8 @@
+[package]
+name = "mandlebrot"
+version = "0.1.0"
+authors = ["Devin Brown <devin.g.brown@gmail.com>"]
+
+[dependencies]
+num = "0.1.27"
+
